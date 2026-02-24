@@ -1,0 +1,6 @@
+key points 
+ERC-20 standard → Works with wallets, DEXs, explorers.
+Total supply fixed → 10,000,000,000 POPS × 18 decimals.
+Minting disabled → Only initial supply minted.
+Burn functions → Community and optional owner burn, keeps token deflation optional.
+Ownable → You (the deployer) control the contract initially. Can later renounce ownership to prove decentralization.
